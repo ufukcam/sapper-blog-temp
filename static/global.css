@@ -68,6 +68,7 @@ li p {
 a {
   color: inherit;
   transition: color linear .15s;
+  text-decoration: none;
 }
 
 a:hover {

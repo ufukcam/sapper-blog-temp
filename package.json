@@ -1,6 +1,6 @@
 {
-    "name": "TODO",
-    "description": "TODO",
+    "name": "Ufuk Çam",
+    "description": "Test Blog",
     "version": "0.0.1",
     "scripts": {
         "dev": "sapper dev",

@@ -48,7 +48,8 @@
     <span>
       &copy; {new Date().getFullYear()} Your Blog.
       Powered by <a href="https://sapper.svelte.dev" target="_blank">Sapper</a>.
-      Template by <a href="https://www.twitter.com/Charca" target="_blank">Maxi Ferreira</a> used ufukcam.
+      Template by <a href="https://www.twitter.com/Charca" target="_blank">Maxi Ferreira</a>
+      Edited by <a href="https://www.twitter.com/ufukcam" target="_blank">Ufuk Cam</a>
     </span>
   </footer>
 </div>
