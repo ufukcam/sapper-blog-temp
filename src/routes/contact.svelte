@@ -1,10 +1,10 @@
-<script>
+<!-- <script>
     import Icon from 'svelte-awesome/components/Icon.svelte'
     import { github } from 'svelte-awesome/icons'
     import { twitter } from 'svelte-awesome/icons'
     import { linkedin } from 'svelte-awesome/icons'
 
-</script>
+</script> -->
 
 
 <style>
@@ -37,10 +37,10 @@
 <div class="container">
     <h1>Get in touch test</h1>
 
-
+<!--
         <a href="https://github.com/ufukcam" target="_blank"> <Icon data={github} scale="2" /> </a>
         <a href="https://twitter.com/ufukcam" target="_blank"><Icon data={twitter} scale="2" /></a>
-        <a href="https://www.linkedin.com/in/ufukcam/" target="_blank"><Icon data={linkedin} scale="2" /></a>
+        <a href="https://www.linkedin.com/in/ufukcam/" target="_blank"><Icon data={linkedin} scale="2" /></a> -->
 
 
 </div>
